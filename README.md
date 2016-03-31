@@ -1,0 +1,3 @@
+# faktorial
+
+love youu
